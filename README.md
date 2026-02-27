@@ -18,4 +18,4 @@ Este proyecto documental no es una presentación tradicional. Todas las animacio
 * **Autor:** Angel Oriundo, Carlos Enrique
 * **Docente:** Luciano A. Romero Calla
 ### 🔗 Enlaces:
-* **Video de la Presentación:** [Ver video en Google Drive](aun_no_hay_mi_internet_es_pesimo)
+* **Video de la Presentación:** [Ver video en Google Drive](https://drive.google.com/drive/folders/1wzNuifuh2z4-xKjHLAy4y9BuJ5GnW_7i?usp=sharing)

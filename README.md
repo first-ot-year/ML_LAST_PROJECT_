@@ -19,4 +19,6 @@ Este proyecto documental no es una presentación tradicional. Todas las animacio
 * **Docente:** Luciano A. Romero Calla
 ### 🔗 Enlaces:
 * **Video de la Presentación:** [Ver video en Google Drive](https://drive.google.com/drive/folders/1wzNuifuh2z4-xKjHLAy4y9BuJ5GnW_7i?usp=sharing)
+
+
 Vsualizacion por orden: IntroScene -> Act1_Dimensionality -> Act2_Clustering -> Act3_Metrics -> Act4_DeepLearning -> ConclusionScene 

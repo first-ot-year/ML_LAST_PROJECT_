@@ -17,3 +17,5 @@ Este proyecto documental no es una presentación tradicional. Todas las animacio
 ### 👥 Equipo de Trabajo:
 * **Autor:** Angel Oriundo, Carlos Enrique
 * **Docente:** Luciano A. Romero Calla
+### 🔗 Enlaces:
+* **Video de la Presentación:** [Ver video en Google Drive](aun_no_hay_mi_internet_es_pesimo)

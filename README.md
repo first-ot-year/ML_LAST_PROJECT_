@@ -17,7 +17,7 @@ Este proyecto documental no es una presentación tradicional. Todas las animacio
 ### Equipo de Trabajo:
 * **Autor:** Angel Oriundo, Carlos Enrique
 * **Docente:** Luciano A. Romero Calla
-### 🔗 Enlaces:
+### Enlaces:
 * **Video de la Presentación:** [Ver video en Google Drive](https://drive.google.com/drive/folders/1wzNuifuh2z4-xKjHLAy4y9BuJ5GnW_7i?usp=sharing)
 
 
